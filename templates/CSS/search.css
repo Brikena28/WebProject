@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.search-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+.search-bar {
+    width: 50%;
+    margin: 20px auto;
+}
+.categories {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.categories a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+.product-list {
+    margin-top: 30px;
+    text-align: center;
+}
+.product-list ul {
+    list-style: none;
+    padding: 0;
+}
+.product-list li {
+    margin: 5px 0;
+}

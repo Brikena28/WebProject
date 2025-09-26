@@ -1,0 +1,51 @@
+#body{
+                margin: auto;
+                position:absolute;
+            }
+            #center{
+                text-align: center;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+            .p1{
+                text-align: center;
+                display: inline-block;
+            }
+            .p2{
+                text-align: center;
+                display: inline-block;
+            }
+
+            .p3{
+                text-align: center;
+                display: inline-block;
+            }
+
+            .p4{
+                text-align: center;
+                display: inline-block;
+            }
+
+            .cart-body{
+                text-align: center;
+
+            }
+            .home{
+              margin: 50px;
+              padding: 50px;
+            }
+            .card:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transform: scale(1.02);
+            transition: all 0.3s ease-in-out;
+            }
+
+            footer a:hover {
+            color: #0d6efd; /* Ngjyra blu gjatë hover */
+            }
+            footer i {
+            transition: transform 0.3s ease;
+            }
+            footer i:hover {
+            transform: scale(1.2); /* Zmadhohet kur miu kalon mbi të */
+            }
+

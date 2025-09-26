@@ -1,0 +1,53 @@
+#center{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p1{
+    text-align: center;
+    display: inline-block;
+}
+.p2{
+    text-align: center;
+    display: inline-block;
+}
+.p5{
+    text-align: center;
+    display: inline-block;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.col{
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 20px;
+    width: 300px;
+}
+
+.cart-body{
+    text-align: center;
+}
+#p5{
+    text-align: center;
+    margin-left: 40%;
+
+}
+#do{
+    margin: 25px;
+    padding: 15px;
+}
+.foto{
+    width: 100vw; /* Mbush gjerësinë e plotë të ekranit */
+    height: 100vh; /* Mbush lartësinë e plotë të ekranit */
+    object-fit: cover; /* Ruaj përmasat dhe mbulo gjithë hapësirën */
+}
+footer {
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            background-color: #343a40;
+            color: white;
+            padding: 10px 0;
+        }
